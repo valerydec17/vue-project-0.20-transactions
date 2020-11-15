@@ -8,9 +8,6 @@ export default new Vuex.Store({
         bucketId: 2,
         productId: 3,
         transactionId: 3,
-        x: 1,
-        y: 3,
-        z: 5,
         buckets: [
             {
                 id: 0,
