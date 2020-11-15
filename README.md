@@ -1,4 +1,4 @@
-# my-project-20
+# vue-project-0.20
 
 ## Project setup
 ```
